@@ -4,7 +4,7 @@
     "slug": "lanka-news",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./icon.png",
     "userInterfaceStyle": "light",
     "ios": {
       "bundleIdentifier": "com.a2dkstudio.lankanews",
